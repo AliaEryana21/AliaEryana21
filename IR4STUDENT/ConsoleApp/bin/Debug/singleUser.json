@@ -1,0 +1,13 @@
+{
+  "Name": "alia",
+  "Class": "4 krk",
+  "student": {
+    "Course": "krk",
+    "Semester": "4",
+    "num1": 99,
+    "num2": 99,
+    "num3": 99,
+    "avg": 99,
+    "grade": "A+"
+  }
+}
