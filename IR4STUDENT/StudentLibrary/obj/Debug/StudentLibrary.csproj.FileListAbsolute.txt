@@ -1,0 +1,6 @@
+C:\Users\HP i5\Desktop\MPU-ICT02\STUDENT\IR4STUDENT\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\HP i5\Desktop\MPU-ICT02\STUDENT\IR4STUDENT\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\HP i5\Desktop\MPU-ICT02\STUDENT\IR4STUDENT\StudentLibrary\obj\Debug\StudentLibrary.csproj.AssemblyReference.cache
+C:\Users\HP i5\Desktop\MPU-ICT02\STUDENT\IR4STUDENT\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP i5\Desktop\MPU-ICT02\STUDENT\IR4STUDENT\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\HP i5\Desktop\MPU-ICT02\STUDENT\IR4STUDENT\StudentLibrary\obj\Debug\StudentLibrary.pdb
